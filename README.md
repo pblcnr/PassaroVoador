@@ -10,9 +10,9 @@ Evite Obstáculos: Voando através de aberturas entre os obstáculos. Se você t
 
 Pontuação: Quanto mais longe você voar, mais pontos você ganha. Tente bater seu próprio recorde a cada tentativa!
 
-Para jogar é só acessar: # https://passaro-voador.vercel.app/
+Para jogar é só acessar: https://passaro-voador.vercel.app/
 
-Créditos
+# Créditos
 
 Desenvolvimento: Este jogo foi desenvolvido utilizando a engine Construct3.
 
